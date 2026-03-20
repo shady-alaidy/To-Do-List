@@ -194,7 +194,7 @@ let calendarCurrentYear = null;
 
 // AI Assistant variables
 let aiChatBtn, aiChatWindow, aiChatClose, aiChatInput, aiChatSend, aiChatMessages;
-const GEMINI_API_KEY = 'AIzaSyDcNynBgzf0_xv_UvBmCifvepdiJjpSSMo';
+const GEMINI_API_KEY = 'AIzaSyC_4c-eTLqwf7yIseQOV-wUNjeEBW_JgNA';
 // Use the latest Gemini 1.5 Flash model that supports generateContent on v1beta
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent';
 
